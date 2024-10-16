@@ -1,0 +1,12 @@
+.footer__column_link_a {
+  color: #F2F2F2;
+  text-decoration: none;
+  margin-left: 26px;
+  transition: opacity 0.5s ease-in-out;
+  z-index: 100;
+  cursor: pointer;
+}
+
+.footer__column_link_a:hover {
+  opacity: 0.6;
+}

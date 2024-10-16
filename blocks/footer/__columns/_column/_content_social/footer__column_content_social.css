@@ -1,0 +1,33 @@
+.footer__column_content_social {
+  height: 248px;
+  position: absolute;
+  right: 0px;
+  color: #F2F2F2;
+}
+
+.youtube {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  margin: 5px;
+  margin-left: 0px;
+}
+
+.vk {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  margin: 5px;
+  margin-left: 0px;
+}
+
+.telegram {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  margin: 5px;
+  margin-left: 0px;
+}

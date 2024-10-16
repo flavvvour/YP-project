@@ -1,0 +1,9 @@
+.footer {
+  height: 350px;
+  min-height: 350px;
+  background: #1F1F1F;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  z-index: 0;
+}

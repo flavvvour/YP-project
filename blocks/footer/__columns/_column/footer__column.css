@@ -1,0 +1,25 @@
+.footer__column_content_copyright {
+  width: 45%;
+  display: flex;
+  position: absolute;
+  flex-basis: 711px;
+}
+
+
+
+
+
+
+
+
+
+.footer__column_link {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-bottom: 16px;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
